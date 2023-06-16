@@ -1,0 +1,15 @@
+# Project exclude paths
+/xuecheng-plus-base/target/
+/xuecheng-plus-content/xuecheng-plus-content-api/target/
+/xuecheng-plus-content/xuecheng-plus-content-model/target/
+/xuecheng-plus-content/xuecheng-plus-content-service/target/
+/xuecheng-plus-gateway/target/
+/xuecheng-plus-generator/target/
+/xuecheng-plus-media/xuecheng-plus-media-api/target/
+/xuecheng-plus-media/xuecheng-plus-media-model/target/
+/xuecheng-plus-media/xuecheng-plus-media-service/target/
+/xuecheng-plus-message-sdk/target/
+/xuecheng-plus-search/target/
+/xuecheng-plus-system/xuecheng-plus-system-api/target/
+/xuecheng-plus-system/xuecheng-plus-system-model/target/
+/xuecheng-plus-system/xuecheng-plus-system-service/target/
